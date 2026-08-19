@@ -51,7 +51,7 @@ Here on GitHub, I share DHIS2 resources, data tools, examples, and projects I've
 | **Data Collection** | ODK, Redcap, Qualtrics |
 | **Data Education** | DHIS2 Tutorials, Data Visualization, Knowledge Sharing |
 
-🌟 Let's Connect
+### 🌟 Let's Connect
 
 Interested in DHIS2, digital health, data management, analytics, or making data easier to understand? Let's connect.
 
