@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<br>
 <!--
 ![Juls-BI Banner](./Assets/Juls-BI%20GitHub.png) This is from https://github.com/Juls-BI
 -->
