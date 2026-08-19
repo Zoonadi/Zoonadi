@@ -47,7 +47,7 @@ Here on GitHub, I share DHIS2 resources, data tools, examples, and projects I've
 |---|---|
 | **Digital Health** | DHIS2, Health Information Systems |
 | **Data Management** | Data Quality, Data Collection, Data Validation, Reporting |
-| **Analytics** | Power BI, Excel,|
+| **Analytics** | Power BI, Excel |
 | **Data Collection** | ODK, Redcap, Qualtrics |
 | **Data Education** | DHIS2 Tutorials, Data Visualization, Knowledge Sharing |
 
