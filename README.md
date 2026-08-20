@@ -37,11 +37,12 @@ Here on GitHub, I share DHIS2 resources, data tools, examples, and projects I've
 
 <br>
 <p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-Data%20Analytics-F2C811" />
-  <img src="https://img.shields.io/badge/DAX-Expressions-0A84C1" />
+  <img src="https://img.shields.io/badge/DHIS2-Health%20Information%20Systems-276DC3" />
   <img src="https://img.shields.io/badge/Excel-Data%20Analysis-217346" />
   <img src="https://img.shields.io/badge/ODK-Data%20Collection-FF6B35" />
-  <img src="https://img.shields.io/badge/DHIS2-Health%20Information%20Systems-276DC3" />
+  <img src="https://img.shields.io/badge/Power%20BI-Data%20Analytics-F2C811" />
+  <img src="https://img.shields.io/badge/DAX-Expressions-0A84C1" />
+
 
 | Area | Focus |
 |---|---|
